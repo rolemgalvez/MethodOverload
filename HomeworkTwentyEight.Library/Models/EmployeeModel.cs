@@ -1,4 +1,6 @@
-﻿namespace HomeworkTwentyEight.Library.Models
+﻿using System;
+
+namespace HomeworkTwentyEight.Library.Models
 {
     public class EmployeeModel
     {
@@ -31,6 +33,11 @@
             Name = name;
             Job = job;
             Salary = salary;
+        }
+
+        public void PrintData()
+        {
+            Console.WriteLine($"{Name} | {Job} | {Salary}");
         }
     }
 }
