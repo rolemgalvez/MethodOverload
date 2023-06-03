@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTwentyEight.ConsoleUI", "HomeworkTwentyEight.ConsoleUI\HomeworkTwentyEight.ConsoleUI.csproj", "{D5FE6245-23FC-47F8-A08B-52AD11A9F09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTwentyEight.Library", "HomeworkTwentyEight.Library\HomeworkTwentyEight.Library.csproj", "{958E7684-CD6A-4E0B-B5B9-022BDE049BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FE6245-23FC-47F8-A08B-52AD11A9F09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FE6245-23FC-47F8-A08B-52AD11A9F09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FE6245-23FC-47F8-A08B-52AD11A9F09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FE6245-23FC-47F8-A08B-52AD11A9F09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958E7684-CD6A-4E0B-B5B9-022BDE049BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958E7684-CD6A-4E0B-B5B9-022BDE049BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958E7684-CD6A-4E0B-B5B9-022BDE049BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958E7684-CD6A-4E0B-B5B9-022BDE049BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49C8F59-5E47-4BB8-9FD9-6503A7C3FC40}
+	EndGlobalSection
+EndGlobal
